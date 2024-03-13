@@ -6,7 +6,7 @@
 
 This is the final project for Course 6 Week 6, _Databases and SQL for Data Science with Python_. Part of IBM's Data Analyst Professional Certificate from Coursera. This course is part of the Honors Module. Available here: https://www.coursera.org/programs/jda20232t1-z1hse/professional-certificates/ibm-data-analyst?collectionId=Wxyxq
 
-For this project, we will assume the role of a Data Analyst analyzing data for the city of Chicago, as available on the Chicago City data portal.
+For this project, we will assume the role of a Data Analyst analyzing data for the city of Chicago, as available on the Chicago City data portal. We have been asked to produce some reports about the communities and crimes in the Chicago area.
 
 The goal of this project is to understand advanced SQL techniques. The main points of focus are listed below.
 
@@ -33,7 +33,7 @@ The goal of this project is to understand advanced SQL techniques. The main poin
 
 ## Deliverables
 
-- [ ] Using Joins
+- [x] Using Joins
 - [ ] Creating Views
 - [ ] Creating Stored Procedures
 - [ ] Using Transactions
