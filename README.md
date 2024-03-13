@@ -37,4 +37,4 @@ The goal of this project is to understand advanced SQL techniques. The main poin
 - [x] Creating Views
 - [x] Creating Stored Procedures
   - Had to alter Leaders_Icon column since it was only varchar(4).
-- [ ] Using Transactions
+- [x] Using Transactions
